@@ -1,0 +1,14 @@
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\bin\Debug\Cookbook.exe.config
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\bin\Debug\Cookbook.exe
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\bin\Debug\Cookbook.pdb
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\MainWindow.g.cs
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\App.g.cs
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook_MarkupCompile.cache
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook_MarkupCompile.lref
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\MainWindow.baml
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.g.resources
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.Properties.Resources.resources
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.GenerateResource.Cache
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.exe
+C:\Users\Fishy\Source\Repos\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
